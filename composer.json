@@ -1,0 +1,15 @@
+{
+    "name": "ibibicloud/thinkphp-upload",
+    "keywords": ["thinkphp", "upload", "thinkphp-upload"],
+    "description": "thinkphp-upload",
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "think\\": "src"
+        }
+    },
+    "require": {
+        "ibibicloud/thinkphp-framework": "*",
+        "league/flysystem": "^2.0"
+    }
+}
